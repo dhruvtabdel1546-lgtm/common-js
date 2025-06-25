@@ -40,3 +40,6 @@ Modern JavaScript language features are used. Some browsers may still require po
 #### License
 
 This software is provided under the MIT license.
+
+###
+THIS IS MANOJ MODIFICATION
